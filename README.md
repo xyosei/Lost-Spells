@@ -8,3 +8,7 @@
 6. Select "Spells" > "Select Spell Sources to Use" make sure Book of Lost spells is on the right side
 7. Select "Spells" > "Make a 'Complete' Spell Sheet" then select an option (this will take a really long time)
 8. Delete all pages aside from Spell Sheet pages 
+
+# Updating Descriptions
+
+Please fork and make the descriptions look prettier, make sure to fork and change in the most recent working JS file.
