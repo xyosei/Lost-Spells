@@ -1,0 +1,1202 @@
+Decorate Object
+Detect Charm
+Detune
+Dissonance
+Encrypt
+Pepper’s Purpose
+Shield Open Flame
+Bewitch
+Copy
+Decrypt
+Enhance Oration
+Flash of Light
+Forked Tongue
+Quick Change
+Serpent’s Gaze
+Slow Draw
+Sonic Boom
+Twitch
+Unchained Melody
+Bead of Blazing
+Damage Morale
+Detect Illusion
+Harmony of Heroes
+Helpless Grief
+Menace
+Phantom Accompaniment
+Shadow Embrace
+Taunt
+Undetectable Charm
+Air of Nobility
+Babel’s Curse
+Bad Luck
+Barbaric Yawp
+Blade Song
+Cacophony
+Curse of Horror
+Dancer’s Grace
+Detect Land
+Dread Scream
+Firm Ally
+Musical Mural
+Player Instrument
+Resonant Imbalance
+Sound Worm
+Spiteful Images
+Twisted Magic
+Unfasten
+Wailing Dirge
+Association
+Bait
+Bead of Blasting
+Bladelust
+Crystal Wail
+Distance Distortion
+Harmonic DIscord
+Maligned Performance
+Paean of Greater Glory
+Paper Tigers
+Portrait
+Stupefy
+Voice of Confession
+Cone of Silence
+Dance of Seduction
+Discordant Chorus
+Euphoric Ecstasy
+Fugue
+Harmony of the Gods
+Interrogation
+Mantle of Dread
+Reverence
+Shattering Cry
+Song of Vengeance
+Violent Scream
+Voice of Memories
+Wail of Fate
+Confounding Battlefeld
+Illusory Illusion
+Instant Fluency
+Nymph’s Aura
+Song Barrier
+Words of Thunder
+Agitate Crowd
+Charismatic Shield
+Pocket Paradise
+Revelation Field
+Greater Curse
+Harmonic Dissolution
+Imbue Passion
+Xenophobic Rage
+Curse of the Ancient Mariner
+Decorate Object
+Detect Charm
+Battle Wisdom
+Bubble Net
+Cloud Burst
+Detect Disease
+Detect Life
+Empathic Resonance
+Enhance Oration
+Heraldic Mastiff
+Heraldic Owl
+Heraldic Ox
+Hives
+Mercurial Smite
+Necrotic Feast
+Putrefy Food and Drink
+Air Forge
+Augment Skeleton
+Battle Guidance
+Battle Insight
+Blessed Harvest
+Blessed Watchman
+Blessing of the Dawn
+Blood Geyser
+Bolster Mental Fortitude
+Boost Potency
+Bug Bites
+Chanting
+Charnel Stench
+Damage Morale
+Detect Curse
+Energetic Burst
+Faerie Ward
+Find Corpse
+Fortify Armor
+Fresh Seal
+Glowing Bones
+Heraldic Fox
+Heraldic Horse
+Know Alignment
+Luck of the Saints
+Menace
+Protection from Paralysis
+Slur
+Speed Undead
+Willful Transformation
+Wisdom of the Divine
+Wound Reading
+Wyvern Guard
+Air Bridge
+Air of Nobility
+Aspect Tattoo
+Babel’s Curse
+Bad Luck
+Blinding Ash
+Bone Armor
+Cause the Bends
+Choose Fate
+Corpse Armor
+Curse of Horror
+Curse of Light
+Delay Death
+Detect Land
+Divine Mantle
+Expunge Shadow
+Fire Gills
+Firm Ally
+Godly Patronage
+Health Transfer
+Heraldic Lion
+Liar’s Remorse
+Lifebread
+Mind Link
+Protection from Pressure
+Restore the Undead
+Retribution
+Speak with Objects
+Squeaking Floor Alarm
+Summon Undead
+Walk in the Moonlight
+Weeping Wounds
+Whirlwind of Gore
+Whisper Wind
+Wine Fount
+Wise Defense
+Air Sphere
+Association
+Assume True Form
+Aura of Tsathogga
+Balance of the Mind
+Barbaric Rage
+Bastion
+Comrades in Arms
+Demon Flesh
+Divine Communion
+Exorcise
+Force Corporeality
+Heraldic Leopard
+Heraldic Tortoise
+Infuse Shadow
+Iron Bones
+Iron Core
+Light Control
+Lock Form
+Negative Energy Aura
+Null the Soothing Touch
+Profane Link
+Righteous Cloak
+Snakes into Staves
+Stonefast
+Twig Torture
+Umbral Touch
+Billow the Sails
+Blessing of the Forge
+Bone Blight
+Cloak of Serpents
+Clot
+Corrupt Water
+Dark Empowerment
+Deathly Gaze
+Earthen Snare
+Ethereal Shield
+Forced March
+Heraldic Bear
+Interrogation
+Intimate Knowledge
+Mystic Negation
+Necrotic Touch
+Reverence
+Sacred Champion
+Skull Bomb
+Slime Bucket
+Spellcaster’s Refusal
+Tracker’s Gaze
+Transfer of Vigor
+Unholy Glare
+Vile Vintage
+Wail of Fate
+Watery Blood
+Angel’s Cloak
+Arcane Obstruction
+Black Exhalation
+Call the Heart
+Ebon Water
+Elemental Cloak
+Extract Life
+Giant’s Potency
+Healing Draught
+Hound of Hell
+Instant Fluency
+Invigorating Touch
+Lost Wanderer
+One with the Earth
+Torrent
+Bound Hearts
+Charismatic Shield
+Chill of Evil
+Create Crypt Thing
+Disassemble
+Divine Intervention
+Grim Harvest
+Heraldic Boar
+Immunity to Energy
+Mark of Exile
+Purple Haze
+Revelation Field
+Sacred Aegis
+Sanguine Creatures
+Blazing Blood
+Call Divine Warrior
+Death Bringer
+Divine Assimilation
+Elemental Infusion
+Godsblood
+Greater Curse
+Halt Aging
+Heraldic Hydra
+Impart Strength
+Solar Flare
+Soul Strike
+Strength of the Wyrm
+Xenophobic Rage
+Zone of Metamagic Minimization
+Annihilate Soul
+Curse of the Ancient Mariner
+Disable
+Divine Inspiration
+Heraldic Phoenix
+Heraldic Wyrm
+Hide the Soul
+Phoenix Cloak
+Wither Limb
+Alter Normal Fires
+Daze Animal
+Drench
+Headwind
+Pepper’s Purpose
+Shield Open Flame
+Affect Normal Fog
+Alter Scent
+Bee Sting
+Binding Sap
+Bubble Net
+Buoyancy
+Call of the Wild Companion
+Camouﬂage
+Chlorophyll
+Claws of the Beast
+Cloud Burst
+Detect Disease
+Divining Rod
+Feather Step
+Fists of Stone
+Hound’s Scent
+Locate Fish
+Locate Water
+Otter’s Grace
+Pattern Grass
+Protection from Oozes
+Pummel
+Putrefy Food and Drink
+Quill Skin
+Signal Flare
+Tree Ladder
+Wind Speak
+Woodland Shriek
+Air Forge
+Augment Flames
+Blessed Harvest
+Boost Potency
+Branch Assault
+Bug Bites
+Catnip
+Cave Walker
+Chatterwild
+Constant Heat
+Dolphin Fins
+Dust to Death
+Earth Ear
+Energetic Burst
+Eyes of the Hawk
+Fleet Feet
+Forecast
+Fresh Seal
+Icy Hammer
+Identify Tracks
+Jungle Cry
+Keen Ears
+Leaf Fall
+Leaf Tide
+Melt
+Molten Strike
+Nature’s Aura
+Net
+Open Trail
+Pollen Cloud
+Quell the Wild
+Regenerate Plant
+Rooted in Place
+Sandbody
+Scent Mask
+Silver Spear
+Stench of Death
+Sticky Tongue
+Thorn Snare
+Tremorsense
+Wolf’s Hearing
+Wolf’s Howl
+Wound Reading
+Air Breathing
+Air Bridge
+Animal Mask
+Aspect Tattoo
+Bestow Speech
+Charged Touch
+Detect Land
+Discern Lycanthrope
+Earthen Concealment
+Essence of the Wild
+Exile from Nature
+Far Strike
+Fire Gills
+Halt Plant
+Hornet Wall
+Locust Leap
+Moonbeam
+Nature’s Repast
+Nature’s Strength
+Spyworm
+Steam Bolt
+Undulating Earth
+Volley of Thorns
+Walk in the Moonlight
+Wall of Water
+Weather Calming
+Absorption
+Air Sphere
+Assume True Form
+Bramble Armor
+Desert Refuge
+Earthburst
+Enliven Wood
+Fluid Form
+Forest Home
+Forgebane
+Green Slime
+Iceform
+Infnite Knowledge
+Quicksand
+Snakes into Staves
+Stonefast
+Transform Boulder to Pebble
+Transform Pebble to Boulder
+Vines of Binding
+Billow the Sails
+Blades of Bone
+Cloak of Serpents
+Corrupt Water
+Death Spores
+Divine Burden
+Earth Shift
+Earthen Snare
+Enrich Soil
+Gutsprout
+Improve Senses
+Inner Storm
+Kiss of the Nereid
+Mystic Negation
+Prey’s Scent
+Transfer of Vigor
+Vengeful Environs
+Vile Vintage
+Watery Blood
+Acorn Grove
+Blades of Jade
+Blood of the Hydra
+Change Dust to Water
+Change Water to Dust
+Chrysalis
+Claws of Digging
+Elemental Cloak
+Elemental Scimitar
+Ice Sled
+Invigorating Touch
+Landslide
+Lightning Wheel
+Lost Wanderer
+Nature’s Support
+One with the Earth
+Plant Form
+Serpent Hands
+Solar Fury
+Torrent
+Acid Swamp
+Assault of Stone6
+Create Iceberg
+Deep Freeze
+Divine Disconnection
+Electrical Storm
+Establish Foundation
+Grim Harvest
+Immunity to Energy
+Chariot of Fire
+Darken Forest
+Deny Succor
+Elemental Infusion
+Tranquil Grove
+Creation’s Fury
+Ravaging Fire
+Rimeshatter
+Alter Scent
+Bee Sting
+Bewildering Tracks
+Binding Sap
+Buoyancy
+Call of the Wild Companion
+Camouﬂage
+Detect Disease
+Divining Rod
+Empower Companion
+Feather Step
+Locate Fish
+Locate Water
+Otter’s Grace
+Pattern Grass
+Signal Flare
+Tree Ladder
+Wind Speak
+Biting Blade
+Boost Potency
+Bug Bites
+Catnip
+Charged Missile
+Constant Heat
+Dust to Death
+Earth Ear
+Eyes of the Hawk
+Fleet Feet
+Forecast
+Hunter’s Insight
+Identify Tracks
+Jungle Cry
+Keen Ears
+Leaf Fall
+Leaf Tide
+Nature’s Aura
+Open Trail
+Quell the Wild
+Scent Mask
+Shifter’s Bane
+Swirling Leaves
+Tremorsense
+Wolf’s Hearing
+Wolf’s Howl
+Wound Reading
+Air Breathing
+Animal Mask
+Axe of Destruction
+Bestow Speech
+Detect Land
+Dire Rage
+Discern Lycanthrope
+Earthen Concealment
+Nature’s Strength
+Smart Arrow
+Unstoppable Tracker
+Assume True Form
+Desert Refuge
+Enliven Wood
+Forgebane
+Track Magic
+Vengeful Environs
+Battle Wisdom
+Cloth of Honorable Melee
+Divine Beacon
+Heraldic Mastiff
+Heraldic Owl
+Heraldic Ox
+Holy Infusion
+Mercurial Smite
+Unfettered Steed
+Battle Guidance
+Battle Insight
+Blade of Light
+Chanting
+Energetic Burst
+Fortify Armor
+Heraldic Fox
+Heraldic Horse
+Luck of the Saints
+Sanctifed Reverie of Arms
+Vigil of Enlightenment
+Willful Transformation
+Wisdom of the Divine
+Favor Mount
+Health Transfer
+Heraldic Lion
+Mighty Steed
+Retribution
+Weapon of Retribution
+Wings of Heaven
+Wise Defense
+Circle of Divine Censure
+Comrades in Arms
+Divine Charge
+Hand of Judgment
+Heraldic Leopard
+Heraldic Tortoise
+Iron Core
+Iron Judgment
+Paean of the Holy
+Peacebinding
+Righteous Cloak
+Silver Shield
+Divine Beacon’s Answer
+Divine Sovereignty
+Heraldic Bear
+Holy Blazon
+Sacred Champion
+Zone of Ablation
+Alter Normal Fires
+Burden
+Acid Wind
+Bubble Net
+Caustic Spittle
+Debilitate
+Dragon’s Gauntlet
+Earthen Blast
+Fire Burst
+Flaming Bolts
+Flash of Light
+Frostfre
+Gossamer Webbing
+Ice Bolts
+Push
+With the Wind
+Bead of Blazing
+Bead of Frost
+Dragon Scales
+Ethereal Strike
+Flame of Chaos
+Flameswell
+Force Wave
+Frost Snap
+Ignite
+Molten Strike
+Net
+Silver Spear
+Smothering Cloud
+Spirit Blast
+Air Breathing
+Arcane Spear
+Barbaric Yawp
+Battle Double
+Breath of the Dragon
+Chaos Bolt
+Electromagnetic Storm
+Far Strike
+Frost Shards
+Hard Water Blast
+Heat Flesh
+Ooze Bolt
+Sand Blast
+Shadow Bolt
+Steam Bolt
+Abiding Webs
+Air Sphere
+Bead of Blasting
+Bubble Goop
+Desail
+Earthburst
+Enduring Missiles
+Fiery Blast
+Flame Spiral
+Flames of Purifcation
+Rainbow Spear
+Scalding Sea
+Slimeball
+Solar Spear
+Steam Cloud
+Arcane Shield
+Devouring Darkness
+Earthen Snare
+Ethereal Blast
+Euphoric Ecstasy
+Rainbow Staff
+Shattering Cry
+Violent Scream
+Wail of Fate
+Weaken Fiendish Will
+Acid Blast
+Chilling Gaze
+Cold Fog
+Curse of Infrmity
+Death’s Imposition
+Fangstorm
+Fiery Constrictor
+Life Shot
+Lightning Storm
+Lightning Wheel
+Words of Thunder
+Acid Storm
+Crawling Chaos
+Deep Freeze
+Ebon Lightning
+Electrical Storm
+Forceful Crush
+Liquid Fire
+Magma Eruption
+Scorching Air
+Searing Flash7
+Ebonﬂame
+Ice Geyser
+Arcane Censure
+Conﬂagration
+Scintillating Doom
+Storm of Vitriol
+Tendrils of Night
+Alter Normal Fires
+Assassin’s Mark
+Detect Charm
+Assassin’s Coin
+Farsighted
+Fiery Grasp
+Fire Burst
+Flame Water
+Flash of Light
+Frostfre
+Gossamer Webbing
+Grave-Touched Weapon
+Hives
+Know the Mark
+Nearsighted
+Pilfer Sleep
+Serpent’s Gaze
+Shroud the Shadow
+Blindfold
+Blood Bath
+Burn the Sight
+Charnel Stench
+Damage Morale
+Death Rattle
+Dream Speaker
+Faerie Ward
+False Gold
+Frame
+Ghostly Throttle
+Glowing Bones
+Hesitate
+Insomnia
+Inverted Compass
+Menace
+Pain of Giving
+Precision of Arms
+Slur
+Babel’s Curse
+Bad Luck
+Battle Double
+Blackout
+Blinding Ash
+Bone Trap
+Delay Death
+Hemophilia
+Infuse Weapon
+Life Leech Weapon
+Link Perception
+See the Ephemeral
+Spell Kill
+Tenacious Blade
+Aura of Tsathogga
+Bait
+Corpulent Bloat
+Demon Flesh
+Flames of Darkness
+Flames of Purifcation
+Force Corporeality
+Fumble
+Gallows Tree
+Infrmity
+Purifying Bath
+Shadow Form
+Twig Torture
+Warrior’s Touch
+Arcane Retribution
+Arcane Shield
+Blades of Bone
+Bloody Tentacles
+Bone Blight
+Clot
+Corrupt Water
+Dark Curtain
+Dark Empowerment
+Divine Burden
+Donor
+Euphoric Ecstasy
+Foggy Flying Carpet
+Fugue
+Grim Resilience
+Heat Bone
+Mantle of Dread
+Mystic Negation
+Spirit Doll
+Transfer of Vigor
+Advance the Years
+Bead of Iron
+Blight Fog
+Breach Defenses
+Chilling Gaze
+Crew with the Dead
+Curse of Infrmity
+Death Gaze
+Ebon Water
+Extract Life
+Giant’s Potency
+Hound of Hell
+Illusory Illusion
+Inﬂict Lycanthropy
+Lost Wanderer
+Negative Energy Mantle
+Spiritbreaker
+Cone of Decay
+Divine Disconnection
+Interdiction
+Obliterate Soul
+Deny Succor
+Destined Doom
+Devour Essence
+Ebonﬂame
+Fuse Joints
+Imbue Passion
+Arcane Censure
+Eternal Sleep
+Hide the Soul
+Quicken Assassin
+Alter Normal Fires
+Assassin’s Mark
+Befuddle
+Burden
+Decorate Object
+Detect Charm
+Encrypt
+Ferment
+Itemize
+Pepper’s Purpose
+Shield Open Flame
+Acid Wind
+Assassin’s Coin
+Bewitch
+Bubble Net
+Caustic Spittle
+Commune with Shade
+Copy
+Dead Man’s Hands
+Debilitate
+Decrypt
+Dragon’s Gauntlet
+Earthen Blast
+Enhance Oration
+Erase
+Farsighted
+Fiery Cloth
+Fiery Grasp
+Fire Burst
+Flame Water
+Flaming Bolts
+Flash of Light
+Frostfre
+Gossamer Webbing
+Grave-Touched Weapon
+Hives
+Ice Bolts
+Impressive Blow
+Know the Mark
+Lasting Breath
+Malicious Intent
+Morph Shadow
+Mucilage
+Muddy Appearance
+Nearsighted
+Necrotic Feast
+Pilfer Sleep
+Push
+Quick Change
+Rock Bolt
+Serpent’s Gaze
+Shroud the Shadow
+Signal Flare
+Slow Draw
+Twitch
+Web Orb
+With the Wind
+Air Forge
+Augment Flames
+Augment Skeleton
+Bead of Blazing
+Bead of Frost
+Biting Blade
+Blindfold
+Blood Bath
+Blood Geyser
+Blunt the Edge
+Boarding Plank
+Bolster Mental Fortitude
+Brittle
+Burn the Sight
+Buttress
+Character Flaw
+Charged Missile
+Combat Mind
+Damage Morale
+Death March
+Death Rattle
+Delude
+Detect Curse
+Detect Illusion
+Dragon Scales
+Dream Speaker
+Ethereal Blade
+Ethereal Strike
+Faerie Ward
+False Gold
+Fiery Shield
+Flame of Chaos
+Flameswell
+Force Wave
+Frame
+Frost Snap
+Gaze Mirroring
+Ghostly Howl
+Ghostly Throttle
+Glide
+Glowing Bones
+Hesitate
+Ignite
+Insomnia
+Inverted Compass
+Ironshot
+Melt
+Menace8
+Molten Strike
+Net
+Pain of Giving
+Precision of Arms
+Protection from Paralysis
+Safeguarded Slumber
+Scent Mask
+Shadow Sight
+Silver Spear
+Slur
+Smothering Cloud
+Soul Shield
+Spirit Blast
+Spirit Cartographer
+Undead Alteration
+Undertow
+Undetectable Charm
+Aerial Pilot
+Air Breathing
+Air Bridge
+Anchor
+Arcane Spear
+Babel’s Curse
+Bad Luck
+Barbaric Yawp
+Battle Double
+Binding Chains
+Blackout
+Blade Song
+Blinding Ash
+Blinding Flare
+Bone Trap
+Breath of the Dragon
+Cacophony
+Cause the Bends
+Chaos Bolt
+Charged Touch
+Delay Death
+Detect Land
+Electromagnetic Storm
+Explosive Cloud
+Far Strike
+Finger Missile
+Frost Shards
+Glass House
+Hard Water Blast
+Heat Flesh
+Hemophilia
+Infuse Weapon
+Life Leech Weapon
+Link Perception
+Lustful Gaze
+Ooze Bolt
+Protection from Pressure
+Reshape Metal
+Restore the Undead
+Sand Blast
+See the Ephemeral
+Shadow Bolt
+Silver Bones
+Speak with Objects
+Spell Kill
+Spiteful Images
+Steam Bolt
+Summon Undead
+Tenacious Blade
+Twisted Magic
+Umbral Images
+Umbral Strike
+Undulating Earth
+Unfasten
+Wall of Water
+Water Double
+Whisper Wind
+Yellow Smoke
+Abiding Webs
+Aetheric Shield
+Air Sphere
+Association
+Aura of Tsathogga
+Bait
+Bastion
+Bead of Blasting
+Bead of Luck
+Bladelust
+Bloodburn
+Bubble Goop
+Charge
+Circle of Scrying
+Corpulent Bloat
+Creeping Eye
+Deﬂect Ram
+Desail
+Dig
+Distance Distortion
+Earthburst
+Endless Abyss
+Enduring Missiles
+Fiery Blast
+Fire Fascination
+Flame Spiral
+Flames of Darkness
+Flames of Purifcation
+Fluid Form
+Force Corporeality
+Fumble
+Gallows Tree
+Hard Water Weapon
+Iceform
+Infrmity
+Infuse Shadow
+Instant Exit
+Iron Bones
+Iron Rope
+Lock Form
+Maligned Performance
+Mark of Ownership
+Megalomania
+Mind Carve
+Multiple Shot
+Negative Energy Aura
+Piercing Vision
+Portrait
+Profane Link
+Projectile Link
+Purifying Bath
+Rainbow Spear
+Remember Seas
+Scalding Sea
+Searing Projectiles
+Shadow Form
+Shadowbind
+Slimeball
+Solar Spear
+Spectral Archers
+Steam Cloud
+Steel Butterﬂies
+Stonefast
+Stupefy
+Transform Boulder to Pebble
+Transform Pebble to Boulder
+Twig Torture
+Umbral Touch
+Vermin Swarm
+Wall of Blood
+Warrior’s Touch
+Zombify Self
+Absorb Object
+Arcane Retribution
+Arcane Shield
+Blades of Bone
+Blood Blade
+Blood Purge
+Bloody Tentacles
+Clot
+Cone of Silence
+Corrupt Water
+Dance of Seduction
+Dark Curtain
+Dark Empowerment
+Devouring Darkness
+Divine Burden
+Donor
+Earthen Snare
+Ethereal Blast
+Ethereal Shield
+Euphoric Ecstasy
+Foggy Flying Carpet
+Forced March
+Fugue
+Grim Resilience
+Heat Bone
+Jolt
+Lower Spell Resistance
+Mantle of Dread
+Mark of Fire
+Mark of Ice
+Mark of Ooze
+Memento
+Mystic Negation
+Necrotic Touch
+Nullifying Cloak
+Rainbow Staff
+Resist Channeling
+Shattering Cry
+Skull Bomb
+Soul Shatter
+Spell Legs
+Spellcaster’s Refusal
+Spirit Doll
+Tattoo Object
+Transfer of Vigor
+Transform Zombie
+Umbral Weapon
+Unyielding Durability
+Vile Vintage
+Violent Scream
+Wail of Fate
+Weaken Fiendish Will
+Acid Blast
+Adamantine Bones
+Bead of Iron
+Black Exhalation
+Blade Bond
+Breach Defenses
+Change Dust to Water
+Change Water to Dust
+Chilling Gaze
+Claws of Digging
+Cold Fog
+Confounding Battlefeld
+Crew with the Dead
+Curse of Infrmity
+Death Gaze
+Death’s Imposition
+Dust of Death
+Ebon Water
+Extract Life
+Fangstorm
+Farvision
+Fiery Constrictor
+Giant’s Potency
+Glass Window
+Hound of Hell
+Ice Sled
+Illusory Illusion
+Inﬂict Lycanthropy
+Instant Fluency
+Judicious Concealment
+Life Shot
+Lightning Storm
+Lightning Wheel
+Lost Wanderer
+Merge into Art
+Negative Energy Mantle
+Ogre’s Visage
+Serpent Hands
+Shade Swarm
+Spell Inhibitor
+Spilling of Blood
+Spiritbreaker
+Transmute Gold to Steel
+Transparent Steel
+Umbral Transformation
+Words of Thunder
+Acid Storm
+Acid Swamp
+Burning Rain
+Chain Enervation
+Chronal Displacement
+Cone of Decay
+Containment Orbs
+Crawling Chaos
+Create Crypt Thing
+Create Iceberg
+Dancing Daggers
+Deep Freeze
+Divine Disconnection
+Ebon Lightning
+Electrical Storm
+Establish Foundation
+Forceful Crush9
+Hovership
+Icebreaker
+Immunity to Energy
+Interdiction
+Liquid Fire
+Magma Eruption
+Mangling Foot
+Obliterate Soul
+Raise Island
+Revelation Field
+Scorching Air
+Searing Flash
+Shield of Crackling Fire
+Sleep of Power
+Volley Spell
+Dark Geyser
+Death Bringer
+Deny Succor
+Destined Doom
+Ebonﬂame
+Elemental Infusion
+Fuse Joints
+Glass into Iron
+Greater Curse
+Halt Aging
+Ice Geyser
+Imbue Passion
+Impart Strength
+Life Leech
+Outside of Time
+Raise Shipwreck
+Shadowstaff
+Soul Strike
+Spirit Disk
+Strength of the Wyrm
+Touch of Madness
+Umbral Storm
+Xenophobic Rage
+Zephyr of Death
+Zone of Metamagic Minimization
+Arcane Censure
+Conﬂagration
+Crag Warrior
+Curtain of Fire
+Eternal Sleep
+Hide the Soul
+Quicken Assassin
+Rimeshatter
+Scintillating Doom
+Storm of Vitriol
+Tendrils of Night
